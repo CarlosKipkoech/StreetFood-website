@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+    background-color: white;
+    font-family: 'poppins';
+    max-width: 100%;
+    overflow-x: hidden;
+}
+#showcase1{
+    background-color: rgb(184, 176, 173);
+    border-sizing: border box;
+
+}
+body li{
+
+    position: static;
+    display: inline;
+    padding-right:105px;
+    font-size: 11px;
+    padding-bottom: 0px;
+}
+
+body ul{
+    position:absolute;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+a :hover{
+    color: coral;
+}
+
+.star{
+     position: absolute;
+    font-size: 80px;
+    color: rgb(49, 29, 4);
+    top: 7px;
+    left: 44%;
+    transform: translate(0,-48%);
+    height: 80px;
+    
+}
+
+    
+
+.name{
+    position: absolute;
+    left: 43%;
+    transform: translate( 50%-50%);
+    font-size: 18px;
+    top: 52px;
+}
+#semi
+{
+    position:absolute;
+    top: 5%;
+    left: 78%;
+    transform: translate(-50%, -50%);
+    height: 990px;
+    width: 990px;
+    border-radius:  960px  0 960px 960px;
+    background-color: rgb(36, 161, 36); 
+
+}
+
+.street{
+    font-size: 22px;
+    color: green;
+    position: absolute;
+    top: 30.5%;
+    left: 3%;
+}
+.food{
+    font-size: 23px;
+    color: rgb(184, 129, 28);
+    position: absolute;
+    top: 30%;
+    left: 12%;
+}
+.showparagraph ul{
+    position:absolute;
+top:50%
+}
+.showparagraph li{
+    display: block;
+    font-size: 17px;
+}
+
+.showparagraph h1{
+    position:absolute;
+    top:40%;
+    left: 3%;
+    
+}
+    
+button {
+    position: absolute;
+    top: 83%;
+    left: 3% ;
+    background-color: #4CAF50; /* Green */
+    border-radius: 50px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-color:#4CAF50 ;
+  } 
+  
+  button:hover{
+    background-color: black;
+  }
+.image1{
+    position:absolute;
+    top: 78%;
+    left: 60%;
+}
+  
+  #eat-together{
+      position: absolute;
+      top:120%;
+      background-color: white;
+      display: flex;
+  }
+
+.eat-para{
+    margin-top: 10%;
+    order: 2;
+    width: 30%;
+    top: 10%;
+    font-size: 18px;
+    text-align: center;
+}
+
+.eat{
+    flex:end
+}
+        
