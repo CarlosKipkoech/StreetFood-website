@@ -1,0 +1,20 @@
+{
+  "name": "streetfood-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DWN7777/StreetFood-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DWN7777/StreetFood-website/issues"
+  },
+  "homepage": "https://github.com/DWN7777/StreetFood-website#readme"
+}
