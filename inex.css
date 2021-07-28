@@ -486,7 +486,16 @@ padding-left: 5%;
     border-bottom: none;
 }
 
-
+#dotted-semi{
+     width: 480px;
+     height: 240px;
+     position: absolute;
+     border-radius: 1000px 1000px 0 0;
+    border: darkgreen dotted;
+    top: 36%;
+    left: 57%;
+    border-bottom: none;
+}
 
 
 
