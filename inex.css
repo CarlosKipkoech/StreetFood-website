@@ -130,33 +130,35 @@ button {
   }
 .image1{
     position:absolute;
-    top: 66%;
-    left: 66%;
+    top: 70%;
+    left: 69%;
 }
 .image2{
     position:absolute;
-    top: 53%;
-    left: 60%;
+    top: 42%;
+    left: 59%
 }
 .image3{
     position:absolute;
-    top: 66%;
-    left: 70%;
+    top: 64%;
+    left: 55%;
 }
 .image4{
     position:absolute;
-    top: 40%;
-    left: 70%;
+    top: 29%;
+    left: 72%;
 }
 .image5{
     position:absolute;
-    top: 48%;
-    left: 79%;
+    top: 38%;
+    left: 84.5%;
 }
 .image6{
-    position:absolute;
-    top: 66%;
-    left: 70%;
+    position: absolute;
+    height: 10%;
+    width: 10%;
+    top: 68%;
+    left: 91%;
 }
 
 
