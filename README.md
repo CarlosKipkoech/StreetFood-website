@@ -7,13 +7,13 @@ Home About        Our Menu         catering         Reservation            Galle
 |    Street Food   |      |
 |------------|-------------|
 
-| #We dont play with food
+#We dont play with food
 when i was a small boy, my father told me                                  
 never recommend a church or a woman to anyone .
 A nd i have found it wise not to recommend a restaturant either .
-something always goes wrong with the cheese scuffle | <img src="https://drive.google.com/file/d/11fvZysfItFOaeUrT-jkr0BgHjLOjZebB/view?usp=sharing" |
+something always goes wrong with the cheese scuffle | <img src="https://drive.google.com/file/d/11fvZysfItFOaeUrT-jkr0BgHjLOjZebB/view?usp=sharing" 
 
-##order Now
+#order Now
 
 
 |      | Eating Together     |
@@ -62,8 +62,7 @@ There is something profoundly satisfying about sharing a meal.
  
  #send
  
- 
-  |                   |                      |                     |   
+  
   
   |-------------------|----------------------|-------------------------|  
   | suday-Thursday    | (423) 266-1121     |    FOLLOW
